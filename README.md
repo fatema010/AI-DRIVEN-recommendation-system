@@ -49,7 +49,7 @@ enhancing user experience and engagement.
 - Collaborative filtering techniques are utilized to capture user preferences and generate recommendations.
 
 - ## Bert-Based
-- ![(bert.png)].
+- ![This picture explained a lot](bert.png).
 
 ## Training and Evaluation
 
