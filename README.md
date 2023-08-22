@@ -44,15 +44,18 @@ enhancing user experience and engagement.
 
 ## Model Architecture
 
-- The recommendation system is built using neural network architectures, such as embeddings and layers.
+- The recommendation system uses neural network architectures like embeddings and layers.
 
 - Collaborative filtering techniques are utilized to capture user preferences and generate recommendations.
+
+- ## Bert-Based
+- (bert.png)
 
 ## Training and Evaluation
 
 - The model is trained on user interactions, aiming to predict user preferences for movies.
 
-- Evaluation metrics, such as Mean Squared Error (MSE), are used to assess the model's performance.
+- Evaluation metrics, such as Mean Squared Error (MSE), assess the model's performance.
 
 ## Recommendation Generation
 
